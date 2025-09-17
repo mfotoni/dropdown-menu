@@ -1,8 +1,16 @@
 {
-  "name": "dropdown-menu",
+  "name": "@mfotoni/dropdown-menu",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A lightweight, vanilla JavaScript dropdown menu component with no dependencies. Auto-initialization, click outside to close, keyboard support, and custom events.",
+  "keywords": [
+    "dropdown",
+    "menu",
+    "ui",
+    "component",
+    "vanilla",
+    "javascript",
+    "interactive"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
