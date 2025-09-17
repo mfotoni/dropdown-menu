@@ -1,0 +1,19 @@
+{
+  "name": "dropdown-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfotoni/dropdown-menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfotoni/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/mfotoni/dropdown-menu#readme"
+}
